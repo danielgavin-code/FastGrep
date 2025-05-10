@@ -1,0 +1,16 @@
+# FastGrep Requirements
+
+Python 3.6 or higher is required.
+
+No external packages are needed — FastGrep runs entirely on Python standard library modules.
+
+No pip install required.
+
+Standard modules used:
+- argparse
+- gzip
+- bz2
+- re
+- os
+- sys
+- concurrent.futures
